@@ -49,27 +49,27 @@ author_project_details:
                 project_description: A travel app that obtains a desired trip location & date from the user, and displays weather and an image of the location using information obtained from external APIs.
                 project_url: https://github.com/w5207/Frontend-Projects/tree/main/Travel%20App
                 visibility: true
-              - project_thumbnail: evaluatenlp.PNG
+              - project_thumbnail: evaluatenlp.png
                 project_title: Evaluate News NLP Tool | JavaSript
                 project_description: A web tool to run Natural Language Processing (NLP) on articles or blogs.
                 project_url: https://github.com/w5207/Frontend-Projects/tree/main/Evaluate%20News%20NLP
                 visibility: true
-              - project_thumbnail: ETSP.PNG
+              - project_thumbnail: ETSP.png
                 project_title: Enterprise Tax Service Platform | Vue.js
                 project_description:  A web-based corporate tax services app to display and analyze the tax data of enterprises in Guangdong Province in China
                 project_url: https://github.com/w5207/Enterprise-Tax-Service-Platform
                 visibility: true
-              - project_thumbnail: OBS.PNG
+              - project_thumbnail: OBS.png
                 project_title: Online Bidding System | Vue.js
                 project_description:  A web-based online bidding system
                 project_url: https://github.com/w5207/Online-Bidding-System-Demo
                 visibility: true
-              - project_thumbnail: sorcery.PNG
+              - project_thumbnail: sorcery.png
                 project_title: Sorcery Card Game | C++
                 project_description: A card game based on collectible card games such as "Hearthstone" and "Magic".
                 project_url: https://github.com/w5207/Sorcery
                 visibility: true
-              - project_thumbnail: lifeexpect.PNG
+              - project_thumbnail: lifeexpect.png
                 project_title: Life Expectancy Prediction Model | Python
                 project_description:  A model to predict whether respondents are very satisfied with their lives overall based on their other survey responses
                 project_url: https://github.com/w5207/Life-Expectancy-Prediction
