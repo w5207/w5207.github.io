@@ -38,8 +38,14 @@ author_education_details:
               - college_logo: waterloo.png
                 college_name: University of Waterloo
                 college_url: https://uwaterloo.ca/
-                college_degree: Honors Computational Math and Honors Statistics
-                description: Bachelor of Mathematics
+                college_degree: Bachelor of Mathematics
+                description: Honors Computational Math and Honors Statistics
+                visibility: true
+              - college_logo: udacity.png
+                college_name: Udacity
+                college_url: https://confirm.udacity.com/FCFQWRFC
+                college_degree: Front End Web Developer Nanodegree Program
+                description: Graduates of this Nanodegree program will be able to construct responsive websites using CSS, Flexbox and CSS Grid, develop interactive websites and UI (User Interface) applications using JavaScript and HTML, and connect a web application to backend server data using JavaScript. Students will also build competency automating application build and deployment using Webpack and improving offline performance of websites using Service Worker.
                 visibility: true
 
 # Projects
