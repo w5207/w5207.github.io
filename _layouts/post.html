@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="row" id="blog-post-container">
+  <div class="col-lg-8 offset-md-2">
+    {%- include blog_post_article.html -%}
+    {%- include blog_post_comments.html-%}
+  </div>
+</div>
+<div class="row" id="blog-bottom-container">
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-header">About {{site.author}}</div>
+      <div class="card-body">
+        <p class="author_bio">{{ site.author_bio }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-header">Categories</div>
+      <div class="card-body text-dark">
+        {%- include blog_categories.html -%}
+      </div>
+    </div>
+  </div>
+</div>

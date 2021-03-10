@@ -1,0 +1,14 @@
+# Add Authors here
+w5207:
+   name: Ning Chen
+   username: w5207
+   site: http://w5207.github.io
+   avatar: profile.jfif
+   bio: "Hi, I am Ning Chen, a Web Developer."
+   email: n5207w@gmail.com
+   social:
+      - title: "github"
+        url: "https://github.com/w5207"
+      - title: "linkedin"
+        url: "https://www.linkedin.com/in/5207"
+     
