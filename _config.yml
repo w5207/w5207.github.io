@@ -51,12 +51,12 @@ author_education_details:
 # Projects
 author_project_details:
               - project_thumbnail: travelapp.png
-                project_title: Travel App | JavaSript
+                project_title: Travel App | Node.js
                 project_description: A travel app that obtains a desired trip location & date from the user, and displays weather and an image of the location using information obtained from external APIs.
                 project_url: https://github.com/w5207/Frontend-Projects/tree/main/Travel%20App
                 visibility: true
               - project_thumbnail: evaluatenlp.png
-                project_title: Evaluate News NLP Tool | JavaSript
+                project_title: Evaluate News NLP Tool | Node.js
                 project_description: A web tool to run Natural Language Processing (NLP) on articles or blogs.
                 project_url: https://github.com/w5207/Frontend-Projects/tree/main/Evaluate%20News%20NLP
                 visibility: true
